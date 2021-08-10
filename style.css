@@ -1,0 +1,60 @@
+body{
+    background-color:#FDF6F0;
+    font-family: sans-serif;
+}
+
+header {
+    float: left;
+    text-align:center;
+    Width:50%;
+    height: 100%;
+    margin: 60px auto 20px auto;
+    /* /* position: relative; */
+}
+table{
+    font: 1.2em "Fira Sans", sans-serif;
+    font-weight:bold;
+    padding: 0;
+    background-color: #FDF6F0;
+    height: 70%;
+    width: 45%;
+    float: right;
+    margin:  100px 100px auto 0;
+    text-align: center;
+    border-collapse: collapse;
+    /* position: relative; */
+    
+    
+}
+th{
+    padding: 20px;
+    background-color: #FDF6F0;
+    font-weight: bolder;
+}
+td{
+    padding: 18px;
+    background-color: #FDF6F0;
+  
+}
+.para{
+    font-size: 1.2em;
+    font-weight: bolder;
+    display: block;
+    background-color: rgba(241, 226, 226, 0.514); 
+    text-align: center;
+    float:right; 
+    clear: left;
+}
+     
+
+.navbar{
+    background-color: rgb(146, 141, 216);
+    float: inline-end;
+}
+.navbar li{
+text-decoration:none;
+    list-style: none;
+}
+.navbar ul{
+    overflow: auto;
+}
